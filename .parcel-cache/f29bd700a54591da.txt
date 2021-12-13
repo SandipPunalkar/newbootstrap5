@@ -1,4 +1,4 @@
-4141
+4150
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\weak-lru-cache\rollup.config.js132837949834703370 0
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\fastest-levenshtein\.prettierrc132837949717215846 0
 117C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\page-transition-events.js132837950088072191 0
@@ -41,10 +41,23 @@
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\regions\BY.js132837949955928574 0
 100C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\ocaml.js132837950033500708 0
 62C:\Users\Sandip\Documents\htmlProjects\newbootstrap\.gitignore132837943353925274 0
+88C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\supports-color\index.js132837949816424645 0
+111C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\lmdb-store\dependencies\lz4\lib\dll\liblz4.def132837949960525729 0
+66C:\Users\Sandip\Documents\htmlProjects\newbootstrap\src\index.html132838781503093269 0
+85C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\core\LICENSE132837949867443173 0
+109C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\css-namespaces.js132837950006527350 0
+101C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\diagnostic\lib\diagnostic.js132837949814355906 0
+99C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\sass\types\legacy\plugin_this.d.ts132837949957157817 0
+87C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\command-exists\LICENSE132837949734055456 0
+103C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\reasonml.js132837950037498240 0
+58C:\Users\Sandip\Documents\htmlProjects\newbootstrap\assets132838757447633251 1
+96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\regions\SK.js132837950094128446 0
+110C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow132837949835992577 0
+98C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\type-fest\source\typed-array.d.ts132837949917802105 0
 74C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\nan\tools132837949922449215 1
 85C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\lmdb-store\benchmark132837949965832454 1
 78C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\fastq\LICENSE132837949707012152 0
-56C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist132837959033091108 1
+56C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist132838781504902143 1
 105C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\web-serial.js132837950101883660 0
 111C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\cookie-store-api.js132837949962004828 0
 76C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\fs.realpath132837949823210459 1
@@ -77,11 +90,6 @@
 64C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules132837950119822588 1
 99C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\stan.js132837950040206574 0
 70C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\isexe132837949839570370 1
-88C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\supports-color\index.js132837949816424645 0
-111C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\lmdb-store\dependencies\lz4\lib\dll\liblz4.def132837949960525729 0
-66C:\Users\Sandip\Documents\htmlProjects\newbootstrap\src\index.html132837957252061108 0
-85C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\core\LICENSE132837949867443173 0
-109C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\css-namespaces.js132837950006527350 0
 75C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\semver\bin132837949734415235 1
 102C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@popperjs\core\dist\cjs\popper.js.map132837941378193220 0
 95C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\utils\lib\ansi-html.js132837949835792725 0
@@ -94,7 +102,7 @@
 101C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\stream.js132837950095577560 0
 114C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\link-rel-preconnect.js132837950067564835 0
 97C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\type-fest\source\promisable.d.ts132837949899033675 0
-68C:\Users\Sandip\Documents\htmlProjects\newbootstrap\scss\custom.scss132837943959414923 0
+68C:\Users\Sandip\Documents\htmlProjects\newbootstrap\scss\custom.scss132838772020795215 0
 128C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\lmdb-store\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c132837949950022211 0
 81C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\ignore\README.md132837949828737072 0
 126C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt132837950071302526 0
@@ -146,10 +154,6 @@
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\regions\GE.js132837950046942420 0
 104C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\fast-glob\out\providers\filters\deep.js132837949831095588 0
 74C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@popperjs132837941336233211 1
-71C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\ignore132837949835842666 1
-84C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\ansi-regex\index.js132837949730907399 0
-137C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\split2\node_modules\readable-stream\lib\internal\streams\from-browser.js132837949868072778 0
-100C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\type-fest\source\readonly-deep.d.ts132837949900362856 0
 82C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\type-fest\license132837949700346255 0
 99C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\rust.js132837950038347743 0
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\styles\dracula.css132837949913324858 0
@@ -316,6 +320,10 @@
 90C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\cross-spawn\lib\enoent.js132837949835322989 0
 73C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\has-flag132837949823020573 1
 103C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\cross-spawn\lib\util\resolveCommand.js132837949858108917 0
+71C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\ignore132837949835842666 1
+84C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\ansi-regex\index.js132837949730907399 0
+137C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\split2\node_modules\readable-stream\lib\internal\streams\from-browser.js132837949868072778 0
+100C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\type-fest\source\readonly-deep.d.ts132837949900362856 0
 98C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\mel.js132837950024736121 0
 74C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\immutable132837949865714230 1
 104C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\split2\node_modules\readable-stream\lib132837949842298757 1
@@ -611,12 +619,12 @@
 76C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\xxhash-wasm132837949861396893 1
 109C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\object-entries.js132837950083534979 0
 72C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\yallist132837949823780103 1
-103C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\core\test\fixtures\module-a.js132837949956648126 0
-90C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\path-is-absolute\index.js132837949732056698 0
-84C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\yallist\iterator.js132837949732436458 0
 107C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\magnetometer.js132837950070103277 0
 127C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\split2\node_modules\readable-stream\lib\_stream_passthrough.js132837949818403436 0
 98C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\node-forge\lib\aesCipherSuites.js132837949822350995 0
+103C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\core\test\fixtures\module-a.js132837949956648126 0
+84C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\yallist\iterator.js132837949732436458 0
+90C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\path-is-absolute\index.js132837949732056698 0
 80C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\yallist\LICENSE132837949707052117 0
 97C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@popperjs\core\dist\umd\enums.js132837941353344312 0
 84C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\logger\test132837949822700767 1
@@ -882,9 +890,6 @@
 99C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\type-fest\source\set-required.d.ts132837949911765816 0
 98C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\type-fest\source\stringified.d.ts132837949913494748 0
 100C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\type-fest\source\tsconfig-json.d.ts132837949917112521 0
-101C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\diagnostic\lib\diagnostic.js132837949814355906 0
-99C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\sass\types\legacy\plugin_this.d.ts132837949957157817 0
-98C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\type-fest\source\typed-array.d.ts132837949917802105 0
 104C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\accesslog.js132837949960555711 0
 108C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\type-fest\source\union-to-intersection.d.ts132837949918381766 0
 87C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\mkdirp\readme.markdown132837949826948156 0
@@ -913,8 +918,8 @@
 86C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\node-addon-api\napi.h132837949863995291 0
 89C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\to-regex-range\README.md132837949821691395 0
 121C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\split2\node_modules\readable-stream\lib\internal\streams132837949888879939 1
-96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\regions\PA.js132837950087952255 0
 82C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\sass\sass.dart.js132837949941447503 0
+96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\regions\PA.js132837950087952255 0
 92C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\workers\lib\process132837949893676981 1
 83C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\readdirp\README.md132837949821571458 0
 86C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\graceful-fs\README.md132837949840090034 0
@@ -1096,6 +1101,7 @@
 102C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\details.js132837950037068518 0
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\source-map\src\types.js132837949872280187 0
 114C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\es6-string-includes.js132837950041815581 0
+81C:\Users\Sandip\Documents\htmlProjects\newbootstrap\assets\building2.67c5fb0d.jpg132671395615682329 0
 79C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\semver\LICENSE132837949719224620 0
 99C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\codeframe\lib\codeframe.js132837949820042407 0
 100C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\bootstrap\scss\helpers\_stacks.scss132837941400647790 0
@@ -1268,7 +1274,7 @@
 119C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\msgpackr-extract\prebuilds\linux-arm64\node.abi83.node132837949933052679 0
 89C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\minimist\test\unknown.js132837949869761743 0
 100C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\readable-stream\writable-browser.js132837949870761119 0
-78C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist\index.017db2f2.js.map132837959033071817 0
+78C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist\index.017db2f2.js.map132838771065760357 0
 103C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\vbscript.js132837950041925508 0
 81C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\json5\lib\cli.js132837949838521002 0
 93C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\readable-stream\lib\internal132837949842168758 1
@@ -1844,6 +1850,7 @@
 85C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\lmdb-store\README.md132837949969640114 0
 108C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\input-pattern.js132837950061958295 0
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\bootstrap\scss\helpers\_vr.scss132837941401737999 0
+79C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist\index.f9227b91.css.map132838772177714961 0
 79C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\lmdb-store\src132837949963423946 1
 110C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\styles\tomorrow-night-bright.css132837949956927961 0
 80C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\lmdb-store\test132837950070662923 1
@@ -1985,7 +1992,6 @@
 81C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\json5\LICENSE.md132837949817693860 0
 99C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\dart.js132837949965802483 0
 83C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\json5\package.json132837949719334535 0
-79C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\.bin\ansi-html132837950106131036 0
 80C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\json5\README.md132837949822151105 0
 79C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\braces\LICENSE132837949820701994 0
 109C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\styles\atelier-estuary-dark.css132837949865714230 0
@@ -2507,8 +2513,6 @@
 113C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\screen-orientation.js132837950093179038 0
 103C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\progress.js132837950089831102 0
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\r.js132837950037298363 0
-87C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\command-exists\LICENSE132837949734055456 0
-103C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\reasonml.js132837950037498240 0
 87C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\fast-glob\out\managers132837949921140029 1
 102C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@popperjs\core\lib\utils\math.js.flow132837941348701186 0
 98C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\rsl.js132837950038027913 0
@@ -2527,6 +2531,7 @@
 101C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\step21.js132837950040446435 0
 117C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\form-submit-attributes.js132837950045813117 0
 101C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\stylus.js132837950040536376 0
+87C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist\abstract.91fe92b5.2cb97c9d.jpg132838771065620413 0
 100C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\highlight.js\lib\languages\swift.js132837950040786220 0
 98C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\fast-glob\out\readers\reader.d.ts132837949918031965 0
 98C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\av1.js132837949921339909 0
@@ -2650,6 +2655,7 @@
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\fast-glob\out\providers\filters132837949910946317 1
 108C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\ambient-light.js132837949894126708 0
 89C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\watcher\src\unix132837949862356315 1
+75C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist\index.f9227b91.css132838772177645004 0
 102C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\fast-glob\out\providers\provider.d.ts132837949917192472 0
 98C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\fast-glob\out\providers\stream.js132837949881734352 0
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\regions\NL.js132837950082645534 0
@@ -2896,8 +2902,6 @@
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\utils\lib\countLines.js132837949869931626 0
 110C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@popperjs\core\lib\dom-utils\getNodeName.d.ts132837941387265364 0
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\regions\SI.js132837950093958550 0
-96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\regions\SK.js132837950094128446 0
-110C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow132837949835992577 0
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\regions\SL.js132837950094398279 0
 96C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\regions\SR.js132837950095297729 0
 105C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\caniuse-lite\data\features\pdf-viewer.js132837950088491919 0
@@ -4115,6 +4119,7 @@
 105C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@iarna\toml\lib\create-datetime-float.js132837949817593932 0
 95C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@iarna\toml\lib\create-time.js132837949826888182 0
 95C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\@iarna\toml\lib\toml-parser.js132837949868102769 0
+79C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\.bin\ansi-html132837950106131036 0
 83C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\.bin\ansi-html.ps1132837950106131036 0
 82C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\.bin\browserslist132837950105841217 0
 86C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\.bin\browserslist.cmd132837950105841217 0
@@ -4138,5 +4143,9 @@
 76C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\.bin\semver132837950106151041 0
 80C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\.bin\semver.cmd132837950106151041 0
 80C:\Users\Sandip\Documents\htmlProjects\newbootstrap\node_modules\.bin\semver.ps1132837950106151041 0
-74C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist\index.017db2f2.js132837959032958604 0
-67C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist\index.html132837959032958604 0
+88C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist\building1.ddf65f44.d7c5f253.jpg132838771065620413 0
+74C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist\index.017db2f2.js132838771065730346 0
+67C:\Users\Sandip\Documents\htmlProjects\newbootstrap\dist\index.html132838781504882160 0
+80C:\Users\Sandip\Documents\htmlProjects\newbootstrap\assets\abstract.91fe92b5.jpg132671395615732217 0
+81C:\Users\Sandip\Documents\htmlProjects\newbootstrap\assets\building1.ddf65f44.jpg132671395615722240 0
+81C:\Users\Sandip\Documents\htmlProjects\newbootstrap\assets\building3.fda5fb6f.jpg132671395615722240 0
